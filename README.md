@@ -196,7 +196,7 @@ What do you think?
 
 ### Grid by Akanksha Singh ###
 
-|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+|	P/I	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
 | :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
 |	Finding Soil Makers	|	Was able to use it  easily	|	Was able to use it  easily	|	Needed some directions but seemed to really like the feature after understanding (especially chat)	|	Needed a bit of guidance	|	Was able to do use it easily, showed appreciation for the map feature	|
 |	Community	|	Liked the idea, encouraging	|	Didn’t have much to say about it	|	Appreciated it	|	Appreciated it	|	Liked the community but said the home page needed something similar	|
@@ -205,7 +205,7 @@ What do you think?
 
 ### Grid by Gang Zhang ###
 
-|	/	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+|	P/I	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
 | :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
 |	Finding Soil Makers	|	Easy to find 	|	Easy to find 	|	Easy to find	|	Easy to find	|	Easy to find	|
 |	Community	|	A good community 	|	Have not mentioned  it 	|	A good community 	|	A good community 	|	Something like home page could be better	|
@@ -214,7 +214,7 @@ What do you think?
 
 ### Grid by Na Wen ###
 
-|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+|	P/I	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
 | :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
 |	Finding Soil Makers	|	Good feature for they to communicate	|	Easy to use, achievement looks great	|	Don’t like the color	|	Easy to use	|	Professional and real, map looks great	|
 |		|		|	Don’t like the color	|		|		|		|
@@ -224,7 +224,7 @@ What do you think?
 
 ### Grid by Gautami Khandekar ###
 
-|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+|	P/I	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
 | :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
 |	Finding Soil Makers	|	Found it user-friendly	|	Found it user-friendly	|	Required some help in using the app, but was impressed with its features.	|	Needed a bit of guidance	|	Found it user-friendly and commended the map feature	|
 |	Community	|	Add-on feature, nice concept	|	Had a neutral opinion	|	Appreciated it	|	Appreciated it	|	Suggested changes in the UI	|
@@ -233,7 +233,7 @@ What do you think?
 
 ### Grid by Xiangqing Ding ###
 
-|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+|	P/I	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
 | :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
 |	Finding Soil Makers	|	Think it useful for farmers and gardeners. But doesn’t comment about the usability	|	Doesn’t comment about it	|	Doesn’t comment about it	|	Suggested adding rating feature	|	Consider the map as a good idea	|
 |	Community	|	Find it impressive	|	Doesn’t comment about it	|	Find it attractive	|	Find it impressive	|	Like the idea	|
@@ -242,7 +242,7 @@ What do you think?
 
 ### Grid by Shikhar Sharma ###
 
-|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+|	P/I	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
 | :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
 |	Finding Soil Makers	|	Good feature for	|	Wasn’t impressed with the color but found the feature easy to use.	|	Easy to find	|	Require guidance	|	Found it useful and easy to use	|
 |		|	communication	|		|		|		|		|
