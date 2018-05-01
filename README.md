@@ -13,12 +13,21 @@
 | Xiangqing Ding		| Member 		|  Observation, Document |
 
 
-## Participants ##
+### Participants ###
 
+In this interview, five people in total are invited. 
 
+### Lab ###
+
+The interviews were held in the study rooms (shown in following pictures) in The James B. Hunt Jr. Library. We prepared a laptop used for presenting the prototype to interviewees. In addition, phone (for recording), pens and papers are prepared for documenting the interview.
+
+![](./lab1.jpeg)
+
+![](./lab2.jpeg)
 
 ## Interviews ##
 
+The following interview scripts are mainly documented based on the audio recording. 
 
 ### Interview 1 ###
 
@@ -269,7 +278,7 @@ What do you think?
 + Suggestions were made about providing some statistics in the home page instead of just text
 + Some screens were missing the back functionality and users would have to go back to the main menu
 
-### Follow-up ###
+### Follow-up Recommended ###
 
 + Redesign the home screen with more visuals and numbers rather than text
 + Add rating feature for soil makers
