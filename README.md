@@ -7,27 +7,43 @@
 | :---                 	| :---         	| :---         |
 | Gautami Khandekar	   	| Member 		|  Interview, Observation |
 | Gang Zhang		   	| Member 		|  Interview, Observation |
-| Akanksha Singh	   	| Facilitator 	|  Interview, Observation, Analysis |
+| Akanksha Singh	   	| Facilitator 	|  Interview, Observation |
 | Na Wen				| Member 		|  Interview, Observation |
 | Shikhar Sharma   		| Member 		|  Interview, Observation |
 | Xiangqing Ding		| Member 		|  Observation, Document |
 
 
+### Context ###
+
 ### Participants ###
 
-In this interview, five people in total are invited. 
+Five people are invited by our group members to attend the interview. The participants are all friends of our group member, and four of them come from NCSU. Before the interview, participants are required to complete a survey about their background. The results are listed as below.
+
+| Interviewee     | Gender     | Age   | Experience of mobile application? | Experience of similar application? | Knowledge of UX? | Number of application  used | Like comparing/commenting applications? |
+| :---            | :---     	| :--- 	| :---         | :---         | :---         | :---         |
+| Interviewee 1   | Male		| 25	|  Yes | No  | Yes | 10 - 20 | No  |
+| Interviewee 2   |	Male		| 24	|  Yes | Yes | No  | 20 - 50 | Yes |
+| Interviewee 3   | Male		| 25	|  Yes | No  | Yes | 10 - 20 | No  |
+| Interviewee 4   | Female		| 23	|  Yes | Yes | No  | 20 - 50 | Yes |
+| Interviewee 5   | Male		| 24	|  Yes | No  | No  | 10 - 20 | Yes |
+
+Among all the characteristics, we list the wanted characteristics and unwanted characteristics. 
+
+| Wanted Characteristic                	| Unwanted Characteristic |
+| :---                 					| :---         			|
+| Has experience of mobile application <br> Has used many applications <br> Like comparing/commenting applications | Unbalanced gender ratio <br> Similar age <br> Similar education level <br> |
 
 ### Lab ###
 
-The interviews were held in the study rooms (shown in following pictures) in The James B. Hunt Jr. Library. We prepared a laptop used for presenting the prototype to interviewees. In addition, phone (for recording), pens and papers are prepared for documenting the interview.
+The interviews were held in the study rooms (shown in following pictures) in The James B. Hunt Jr. Library. We prepared a laptop used for presenting the prototype to interviewees. In addition, phone (for recording), pens and papers are prepared for documenting the interview. In each interview, there is one interviewee, one interviewer, and three observers.The observers are responsible observing the interviewees' reaction and recording the interview.
 
 ![](./lab1.jpeg)
 
 ![](./lab2.jpeg)
 
-## Interviews ##
+## Interviews Script ##
 
-The following interview scripts are mainly documented based on the audio recording. 
+The following interview scripts are mainly documented based on the audio recording. The interviews generally begins with greeting. Then the interviewer will ask the interviewee the most impressive feature of the prototype in his/her mind. After that, interviewee will be asked about their overall opinion and suggestion about the prototype.
 
 ### Interview 1 ###
 
