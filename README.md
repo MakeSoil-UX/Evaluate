@@ -20,7 +20,7 @@
 Five people are invited by our group members to attend the interview. The participants are all friends of our group member, and four of them come from NCSU. Before the interview, participants are required to complete a survey about their background. The results are listed as below.
 
 | Interviewee     | Gender     | Age   | Experience of mobile application? | Experience of similar application? | Knowledge of UX? | Number of application  used | Like comparing/commenting applications? |
-| :---            | :---     	| :--- 	| :---         | :---         | :---         | :---         |
+| :---            | :---     	| :--- 	| :---         | :---         | :---         | :---         | :---         |
 | Interviewee 1   | Male		| 25	|  Yes | No  | Yes | 10 - 20 | No  |
 | Interviewee 2   |	Male		| 24	|  Yes | Yes | No  | 20 - 50 | Yes |
 | Interviewee 3   | Male		| 25	|  Yes | No  | Yes | 10 - 20 | No  |
