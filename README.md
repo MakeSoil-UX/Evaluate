@@ -13,6 +13,10 @@
 | Xiangqing Ding		| Member 		|  Observation, Document |
 
 
+## Participants ##
+
+
+
 ## Interviews ##
 
 
@@ -150,24 +154,125 @@ Interviewee: The prototype can be most useful to the farmers who are looking for
 
 ### Interview 5 ###
 
-Interviewer: Hey! How is it going?
-Interviewee: Hi! Doing great. How about you?
-Interviewer: Doing good. Excited about the interview. As we spoke the last time, I will be showing you a mobile app prototype for a startup called MakeSoil. I want you to take a look at it, play around with it, and let me know what you think. Should we get started?
-Interviewee: Sure.
-Interviewer: Here’s the prototype. There are two main user groups for it- soil makers who use raw materials to create soil and soil supporters who donate raw materials for making soil.
+**Interviewer:** Hey! How is it going?
+
+**Interviewee:** Hi! Doing great. How about you?
+
+**Interviewer:** Doing good. Excited about the interview. As we spoke the last time, I will be showing you a mobile app prototype for a start-up called MakeSoil. I want you to take a look at it, play around with it, and let me know what you think. Should we get started?
+
+**Interviewee:** Sure.
+
+**Interviewer:** Here’s the prototype. There are two main user groups for it- soil makers who use raw materials to create soil and soil supporters who donate raw materials for making soil.
 What do you think?
-Interviewee: It looks really good, very professional, almost like a real app. Navigating through the app is easy and it’s easy to understand.
-Interviewer: Let’s try finding a soil maker. 
-Interviewee: Sure thing. (Was able to do it easily)
-Interviewer: What are some features that you liked about the app?
-Interviewee: Having a map inside the app to locate soil makers is a great idea. I also liked the community part. I also liked the background. If you look at the app you feel like learning more about it and using it.
-Interviewer: What are some changes you would suggest?
-Interviewee: I would like to have a back button or a button to directly close some of the screens instead of having to go to the menu all the time.
-Interviewer: Anything else? Anything you might want to add perhaps?
-Interviewee: I think a home screen that talks about what MakeSoil is and why it is important would be nice. May be give some statistics about how much organic waste is getting wasted. Some kind of motivation to use the app. Something that says- so much food is getting wasted. You can help by installing this app. Also, it would be nice to be able to change my profile picture, have a notifications button. May be even soil supporters can write about themselves. It would also be nice if I could open and view the profile of a soil maker.
-Interviewer: Those are some really good suggestions. Would you use this app?
-Interviewee: Definitely. I am personally very passionate about the environment and if I had access to this app, I would use it.
-Interviewer: Awesome! Thank you so much for your time. It was great chatting with you.
-Interviewee: Same here! Thank you!
+
+**Interviewee:** It looks really good, very professional, almost like a real app. Navigating through the app is easy and it’s easy to understand.
+
+**Interviewer:** Let’s try finding a soil maker. 
+
+**Interviewee:** Sure thing. (Was able to do it easily)
+
+**Interviewer:** What are some features that you liked about the app?
+
+**Interviewee:** Having a map inside the app to locate soil makers is a great idea. I also liked the community part. I also liked the background. If you look at the app you feel like learning more about it and using it.
+
+**Interviewer:** What are some changes you would suggest?
+
+**Interviewee:** I would like to have a back button or a button to directly close some of the screens instead of having to go to the menu all the time.
+
+**Interviewer:** Anything else? Anything you might want to add perhaps?
+
+**Interviewee:** I think a home screen that talks about what MakeSoil is and why it is important would be nice. May be give some statistics about how much organic waste is getting wasted. Some kind of motivation to use the app. Something that says- so much food is getting wasted. You can help by installing this app. Also, it would be nice to be able to change my profile picture, have a notifications button. May be even soil supporters can write about themselves. It would also be nice if I could open and view the profile of a soil maker.
+
+**Interviewer:** Those are some really good suggestions. Would you use this app?
+
+**Interviewee:** Definitely. I am personally very passionate about the environment and if I had access to this app, I would use it.
+
+**Interviewer:** Awesome! Thank you so much for your time. It was great chatting with you.
+
+**Interviewee:** Same here! Thank you!
+
+
+## Observation ##
+
+### Grid by Akanksha Singh ###
+
+|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+| :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
+|	Finding Soil Makers	|	Was able to use it  easily	|	Was able to use it  easily	|	Needed some directions but seemed to really like the feature after understanding (especially chat)	|	Needed a bit of guidance	|	Was able to do use it easily, showed appreciation for the map feature	|
+|	Community	|	Liked the idea, encouraging	|	Didn’t have much to say about it	|	Appreciated it	|	Appreciated it	|	Liked the community but said the home page needed something similar	|
+|	Account/ Host Soil Site	|	Suggestion- rating. Seemed to want more in the account section	|	Liked the badges, appreciated the gamification concept	|	Didn’t have much to say about it. Didn’t seem to like the color theme	|	Suggested rating. Seemed ok with the rest	|	Didn’t pay much attention. Had to ask to use this feature	|
+
+
+### Grid by Gang Zhang ###
+
+|	/	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+| :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
+|	Finding Soil Makers	|	Easy to find 	|	Easy to find 	|	Easy to find	|	Easy to find	|	Easy to find	|
+|	Community	|	A good community 	|	Have not mentioned  it 	|	A good community 	|	A good community 	|	Something like home page could be better	|
+|	Account/ Host Soil Site	|	Suggestion- rating. Seemed to want more in the account section	|	Badges page is impressive 	|	Color could be changed to better experience	|	Add rating function 	|	Have not mentioned  it 	|
+
+
+### Grid by Na Wen ###
+
+|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+| :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
+|	Finding Soil Makers	|	Good feature for they to communicate	|	Easy to use, achievement looks great	|	Don’t like the color	|	Easy to use	|	Professional and real, map looks great	|
+|		|		|	Don’t like the color	|		|		|		|
+|	Community	|	Add-on feature, nice concept	|	Good Feature	|	Most Attractive	|	Great feature	|	Good feature	|
+|	Account/ Host Soil Site	|	Add some rating	|	Add something like their own page display their information	|	Easy to use	|	Add rating feature for users	|	Statistics for homescreen	|
+
+
+### Grid by Gautami Khandekar ###
+
+|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+| :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
+|	Finding Soil Makers	|	Found it user-friendly	|	Found it user-friendly	|	Required some help in using the app, but was impressed with its features.	|	Needed a bit of guidance	|	Found it user-friendly and commended the map feature	|
+|	Community	|	Add-on feature, nice concept	|	Had a neutral opinion	|	Appreciated it	|	Appreciated it	|	Suggested changes in the UI	|
+|	Account/ Host Soil Site	|	Suggested additions in the account feature	|	Liked this feature	|	Had a neutral opinion.	|	Suggested the rating feature to be added.. 	|	Had a neutral opinion	|
+
+
+### Grid by Xiangqing Ding ###
+
+|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+| :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
+|	Finding Soil Makers	|	Think it useful for farmers and gardeners. But doesn’t comment about the usability	|	Doesn’t comment about it	|	Doesn’t comment about it	|	Suggested adding rating feature	|	Consider the map as a good idea	|
+|	Community	|	Find it impressive	|	Doesn’t comment about it	|	Find it attractive	|	Find it impressive	|	Like the idea	|
+|	Account/ Host Soil Site	|	Doesn’t comment about it	|	Like the achievement idea. 	|	Think the color dull	|	Doesn’t comment about it	|	Doesn’t comment about it	|
+
+
+### Grid by Shikhar Sharma ###
+
+|	Prototype/Interviewee	|	Interviewee 1	|	Interviewee 2	|	Interviewee 3	|	Interviewee 4	|	Interviewee 5	|
+| :---                 	| :---         	| :---         |  :---         |  :---         |  :---         |
+|	Finding Soil Makers	|	Good feature for	|	Wasn’t impressed with the color but found the feature easy to use.	|	Easy to find	|	Require guidance	|	Found it useful and easy to use	|
+|		|	communication	|		|		|		|		|
+|	Community	|	Found impressive	|	Didn’t comment	|	Found it attractive	|	Found it impressive	|	Found useful	|
+|	Account/ Host Soil Site	|	Did not comment	|	Liked the idea	|	Neutral opinion.	|	Suggested to add rating feature for users	|	Statistics for homescreen	|
+
+
+## Results ##
+
+### Patterns ###
+
+#### Positive patterns ####
+
++ Almost everyone was able to find a soil maker pretty easily.
++ Everyone appreciated the map feature
++ Almost everyone made a positive comment about the community feature
++ Consistent enthusiasm for the badges feature
+
+
+#### Negative patterns ####
+
++ Some people didn’t like the dark theme- would have preferred something brighter
++ Most people preferred having some rating about the soil maker
++ Suggestions were made about providing some statistics in the home page instead of just text
++ Some screens were missing the back functionality and users would have to go back to the main menu
+
+### Follow-up ###
+
++ Redesign the home screen with more visuals and numbers rather than text
++ Add rating feature for soil makers
++ Improve the flow of the App. May be consider using a different menu style
 
 
