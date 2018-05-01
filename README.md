@@ -29,9 +29,9 @@ Five people are invited by our group members to attend the interview. The partic
 
 Among all the characteristics, we list the wanted characteristics and unwanted characteristics. 
 
-| Wanted Characteristic                	| Unwanted Characteristic |
-| :---                 					| :---         			|
-| Has experience of mobile application <br> Has used many applications <br> Like comparing/commenting applications | Unbalanced gender ratio <br> Similar age <br> Similar education level <br> |
+| Wanted Characteristic         | Neutral Characteristic |  Unwanted Characteristic |
+| :---                 			| :---         			 | :---         			  |
+| 1. Has experience of mobile application <br> 2. Has experience of similar application <br> 3. Has used many applications <br> 4. Like comparing/commenting applications |  1. Has knowledge of UX | 1. Unbalanced gender ratio <br> 2. Similar age <br> 3. Similar education level <br> |
 
 ### Lab ###
 
